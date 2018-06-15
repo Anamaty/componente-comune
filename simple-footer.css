@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+ /*============Pozi?ionarea elementelor==========*
 * {
   box-sizing: border-box;
 }
@@ -40,47 +40,5 @@ footer small {
 .footer-nav a:hover {
   color: #f26896;
   transition: color .15s ease-in-out;
-=======
-* {
-  box-sizing: border-box;
-}
-strong {
-  font-weight: 700;
-}
-    /*============Pozi?ionarea elementelor==========*/
 
-footer {
-   background: url('https://orange.codeberryschool.com/content/images/project-assets/simple-footer.png') repeat center;
-   height: 8rem;
-  display: table; /*Centreaza con?inutulpe verticala:*/
-  width: 100vw; /*Centreaza con?inutulpe verticala:*/
-  text-align: center; /*Centreaza con?inutul pe orizontala*/
-  padding: 1rem;  
-}
-.wrapper {
-  display: table-cell; /*Centreaza con?inutulpe verticala:*/
-  vertical-align: middle;/*Centreaza con?inutulpe verticala:*/
-}
- /*=======================Tipografia===================*/
-
-footer {
-  font-family: 'Arial', sans-serif;
-  font-size: .875rem;
-}
-footer small {
-  color: #ccc;
-   letter-spacing: .025rem;
-  margin-bottom: 1.5rem;
-  display: block;
-}
-.footer-nav a {
-  text-decoration: none;
-  color: #c74f78;
-   margin: 0 .5rem;
-  display: inline-block;
-}
-.footer-nav a:hover {
-  color: #f26896;
-  transition: color .15s ease-in-out;
->>>>>>> 0467479c6f3a0c6f7e87bff2f5fe5d86384518f7
 }
