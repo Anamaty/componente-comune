@@ -1,1 +1,1 @@
-Subsoluri-pozitionare
+Subsoluri/footer
